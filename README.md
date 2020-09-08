@@ -55,13 +55,19 @@ In this workshop we will use IBM Watson Studio to run a notebook. For this you w
  
 You are now ready to follow along with the workshop in the notebook!
 
+<br>
+<br>
+<br>
 
 
 Data Sources and other References. 
 
-Cases Dataset : https://coronavirus.data.gov.uk/cases
-Cars Dataset : https://www.kaggle.com/fivethirtyeight/fivethirtyeight-bad-drivers-dataset
-IGN Scores : https://www.kaggle.com/alexisbcook/data-for-datavis?select=ign_scores.csv 
-Coffee and Code Dataset : https://www.kaggle.com/devready/coffee-and-code 
-Flights Dataset: https://github.com/mwaskom/seaborn-data/blob/master/flights.csv  
-Music by Genre Dataset :https://www.kaggle.com/yamaerenay/spotify-dataset-19212020-160k-tracks?select=data_by_genres.csv
+- Cases Dataset : https://coronavirus.data.gov.uk/cases
+- Cars Dataset : https://www.kaggle.com/fivethirtyeight/fivethirtyeight-bad-drivers-dataset
+- IGN Scores : https://www.kaggle.com/alexisbcook/data-for-datavis?select=ign_scores.csv 
+- Coffee and Code Dataset : https://www.kaggle.com/devready/coffee-and-code 
+- Flights Dataset: https://github.com/mwaskom/seaborn-data/blob/master/flights.csv  
+- Music by Genre Dataset :https://www.kaggle.com/yamaerenay/spotify-dataset-19212020-160k-tracks?select=data_by_genres.csv
+- https://matplotlib.org/tutorials/index.html
+- https://seaborn.pydata.org/examples/index.html
+- https://github.com/datasciencescoop 
