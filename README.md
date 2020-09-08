@@ -53,7 +53,7 @@ In this workshop we will use IBM Watson Studio to run a notebook. For this you w
 - Select the custom runtime enviroment that you created and click `Create Notebook`. 
 -  The notebook will load. 
  
-<b> You are now ready to follow along with the workshop in the notebook! <b>
+<b> You are now ready to follow along with the workshop in the notebook! </b>
 
 <br>
 <br>
