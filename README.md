@@ -53,14 +53,14 @@ In this workshop we will use IBM Watson Studio to run a notebook. For this you w
 - Select the custom runtime enviroment that you created and click `Create Notebook`. 
 -  The notebook will load. 
  
-You are now ready to follow along with the workshop in the notebook!
+<b> You are now ready to follow along with the workshop in the notebook! <b>
 
 <br>
 <br>
 <br>
+<br>
 
-
-Data Sources and other References. 
+<b> Data Sources and other References. <b>
 
 - Cases Dataset : https://coronavirus.data.gov.uk/cases
 - Cars Dataset : https://www.kaggle.com/fivethirtyeight/fivethirtyeight-bad-drivers-dataset
