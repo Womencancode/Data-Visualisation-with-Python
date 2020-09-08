@@ -49,9 +49,19 @@ In this workshop we will use IBM Watson Studio to run a notebook. For this you w
 
 ![](https://github.com/IBMDeveloperUK/python-geopandas-workshop/blob/master/images/notebook.png)
 
-- Choose new notebook `From URL`. Give your notebook a name and copy the URL `https://github.com/IBMDeveloperUK/geopandas-workshop/blob/master/notebooks/geopandas-workshop.ipynb`
+- Choose new notebook `From URL`. Give your notebook a name and copy the URL ``
 - Select the custom runtime enviroment that you created and click `Create Notebook`. 
 -  The notebook will load. 
  
 You are now ready to follow along with the workshop in the notebook!
 
+
+
+Data Sources and other References. 
+
+Cases Dataset : https://coronavirus.data.gov.uk/cases
+Cars Dataset : https://www.kaggle.com/fivethirtyeight/fivethirtyeight-bad-drivers-dataset
+IGN Scores : https://www.kaggle.com/alexisbcook/data-for-datavis?select=ign_scores.csv 
+Coffee and Code Dataset : https://www.kaggle.com/devready/coffee-and-code 
+Flights Dataset: https://github.com/mwaskom/seaborn-data/blob/master/flights.csv  
+Music by Genre Dataset :https://www.kaggle.com/yamaerenay/spotify-dataset-19212020-160k-tracks?select=data_by_genres.csv
