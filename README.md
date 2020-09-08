@@ -60,7 +60,7 @@ In this workshop we will use IBM Watson Studio to run a notebook. For this you w
 <br>
 <br>
 
-<b> Data Sources and other References. <b>
+<b> Data Sources and other References. </b>
 
 - Cases Dataset : https://coronavirus.data.gov.uk/cases
 - Cars Dataset : https://www.kaggle.com/fivethirtyeight/fivethirtyeight-bad-drivers-dataset
